@@ -2,6 +2,13 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+# MeuProjetoExpo
+
+## Integrantes do grupo
+- Isabelly de Araujo Lopes
+- Kalyane Nayra Alves do Vale
+- Isabele Vitoria Silva
+
 ## Get started
 
 1. Install dependencies
