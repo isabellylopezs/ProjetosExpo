@@ -1,6 +1,19 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Prints do Projeto
+
+![Tela inicial](src/assets/prints/foto1.jpeg)
+![Calendário](src/assets/prints/foto2.jpeg)
+![Data](src/assets/prints/foto3.jpeg)
+![Tarefas](src/assets/prints/foto4.jpeg)
+![Detalhes](src/assets/prints/foto5.jpeg)
+![Compromissos](src/assets/prints/foto6.jpeg)
+![Tarefas](src/assets/prints/foto7.jpeg)
+![Tarefas](src/assets/prints/foto8.jpeg)
+![Perfil](src/assets/prints/foto9.jpeg)
+
+
 
 # MeuProjetoExpo
 
