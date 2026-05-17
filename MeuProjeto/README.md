@@ -7,7 +7,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - Isabelly de Araujo Lopes
 - Kalyane Nayra Alves do Vale
 - Isabele Vitoria Silva
-- 
+  
 ## Prints do Projeto
 
 ![Tela inicial](src/assets/prints/foto1.jpeg)
