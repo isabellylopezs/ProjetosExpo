@@ -1,6 +1,13 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# MeuProjetoExpo
+
+## Integrantes do grupo
+- Isabelly de Araujo Lopes
+- Kalyane Nayra Alves do Vale
+- Isabele Vitoria Silva
+- 
 ## Prints do Projeto
 
 ![Tela inicial](src/assets/prints/foto1.jpeg)
@@ -14,13 +21,6 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ![Perfil](src/assets/prints/foto9.jpeg)
 
 
-
-# MeuProjetoExpo
-
-## Integrantes do grupo
-- Isabelly de Araujo Lopes
-- Kalyane Nayra Alves do Vale
-- Isabele Vitoria Silva
 
 ## Get started
 
